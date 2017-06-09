@@ -11,7 +11,6 @@ import CoreLocation
 
 class ViewController: UIViewController {
 
-
     @IBOutlet weak var zipTextField: UITextField!
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var infoLabel: UILabel!

@@ -8,6 +8,7 @@
 
 import Foundation
 
+/// ⛅️ Represents the weather for a certain location
 class Forecast {
     var tempMin: Float!
     var tempMax: Float!
